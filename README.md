@@ -1,0 +1,1 @@
+This is a budget app created using a YouTube tutorial. The purpose of this app is to have something to look back to in the future after creating an independent project to mark my progress.
